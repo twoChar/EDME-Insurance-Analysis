@@ -2,7 +2,7 @@
 
 Analyze **Gross Direct Premium (GDP)** trends for three major Indian insurance providers from multi-page PDF reports, and visualize **quarterly vs cumulative growth**.
 
-![Sample Trendline](https://github.com/user-attachments/assets/sample-trend.png)  
+![Sample Trendline](https://github.com/twoChar/EDME-Insurance-GDP-Analysis/blob/main/output.png)  
 *(Replace with an actual chart from your notebook)*
 
 ---
