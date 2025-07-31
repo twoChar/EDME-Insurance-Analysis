@@ -1,4 +1,4 @@
-# 📊 EDME Insurance GDP Trend Analysis
+# EDME Insurance GDP Trend Analysis
 
 **Automated** the extraction of the `FORM NL-4 PREMIUM SCHEDULE` table from **60+ page insurance PDFs**, transforming complex and inconsistent data into **clean, analytics-ready datasets**.  
 
