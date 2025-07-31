@@ -1,0 +1,39 @@
+FORM NL-4-PREMIUM SCHEDULE (Amount in Rs. Lakhs)
+Miscellaneous
+Particulars FIRE Marine Cargo Marine Hull Total Marine Motor OD Motor TP Total Motor Health Personal Accident Travel Insurance Total Health Workmen’s Compensation/ Public/ Product Liability Engineering Aviation Crop Insurance Other segments (b) Other Miscellaneous Total Miscellaneous Grand Total
+Employer’s Liability segment
+For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the
+Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter
+December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December,
+2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024 2024
+Gross Direct Premium 1 ,827 6 ,990 68 281 68 281 22,096 55,641 76,718 1 ,89,047 98,814 2,44,689 61 209 3 ,870 9 ,154 0 1 3,931 9,364 164 501 79 218 546 1 ,734 - - - - - - 623 1 ,652 1 ,04,159 2 ,58,157 1,06,054 2,65,428
+Add: Premium on reinsurance accepted (a) 353 1 ,177 - 4 - 4 - - - - - - 19,205 19,205 - - - - 19,205 19,205 - - - - 23 104 - - - - - - - 0 19,228 19,308 19,581 20,490
+Less : Premium on reinsurance ceded (a) 1 ,078 5 ,186 49 207 49 207 885 2 ,465 3 ,174 8 ,581 4,059 11,047 27 111 964 1 ,867 (0) 0 991 1,978 7 24 8 124 347 1 ,344 - - - - - - 254 901 5 ,665 15,418 6,792 20,812
+Net Written Premium 1 ,102 2 ,981 20 78 - - 20 78 21,212 53,176 73,543 1 ,80,466 94,755 2,33,642 19,239 19,302 2 ,906 7 ,287 0 1 22,145 26,590 158 477 71 94 223 494 - - - - - - 369 750 1 ,17,721 2 ,62,047 1,18,843 2,65,106
+Add: Opening balance of UPR 9 ,158 9 ,580 53 31 53 31 35,104 34,067 1 ,15,007 1 ,16,116 1,50,111 1,50,182 130 164 4 ,440 4 ,741 0 0 4,570 4,905 252 233 77 97 413 530 - - - - - - 497 535 1 ,55,920 1 ,56,482 1,65,131 1,66,093
+Less: Closing balance of UPR 9 ,419 9 ,419 47 47 47 47 39,499 39,499 1 ,30,318 1 ,30,318 1,69,816 1,69,816 9 ,374 9 ,374 5 ,018 5 ,018 0 0 14,393 14,393 250 250 105 105 458 458 - - - - - - 612 612 1 ,85,635 1 ,85,635 1,95,101 1,95,101
+Net Earned Premium 841 3 ,141 25 62 - - 25 62 16,817 47,744 58,233 1 ,66,264 75,050 2 ,14,008 9 ,995 10,092 2 ,328 7 ,010 0 1 12,323 17,102 159 460 43 86 177 565 - - - - - - 254 673 88,007 2 ,32,894 88,874 2,36,097
+- -
+Gross Direct Premium - -
+- In India 1,827 6,990 68 281 - - 68 281 22,096 55,641 76,718 1,89,047 98,814 2,44,689 61 209 3,870 9,154 0 1 3,931 9,364 164 501 79 218 546 1,734 - - - - - - 623 1,652 1,04,159 2,58,157 1,06,054 2,65,428
+- Outside India
+(Amount in Rs. Lakhs)
+Miscellaneous
+FIRE Marine Cargo Marine Hull Total Marine Motor OD Motor TP Total Motor Health Personal Accident Travel Insurance Total Health Workmen’s Compensation/ Public/ Product Liability Engineering Aviation Crop Insurance Other segments (b) Other Miscellaneous Total Miscellaneous Grand Total
+Employer’s liability segment
+Particulars For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the For the Up to the
+Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter Quarter quarter
+December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December, December,
+2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023 2023
+Gross Direct Premium 2 ,432 6 ,865 39 168 39 168 17,482 43,796 60,473 1 ,52,650 77,955 1,96,446 61 200 3 ,367 9 ,172 0 0 3,429 9,372 154 389 60 154 502 1 ,384 - - - - - - 426 1 ,202 82,525 2 ,08,947 84,996 2,15,980
+Add: Premium on reinsurance accepted (a) (0) 836 - 3 - 3 - - - - - - - - - - - - - - - - - - 1 66 - - - - - - - - 1 66 1 905
+Less : Premium on reinsurance ceded (a) 1 ,468 4 ,246 32 140 32 140 783 1 ,959 2 ,890 7 ,154 3,673 9,113 29 89 1 ,097 2 ,341 0 0 1,127 2,430 7 17 36 95 314 912 - - - - - - 223 595 5 ,381 13,163 6,880 17,549
+Net Written Premium 964 3 ,455 7 31 7 31 16,699 41,837 57,582 1 ,45,496 74,282 1,87,333 32 111 2 ,270 6 ,831 0 0 2,302 6,942 147 372 24 58 188 538 - - - - - - 203 606 77,145 1 ,95,849 78,116 1,99,335
+Add: Opening balance of UPR - 7 ,848 - 15 - 15 - 22,776 - 88,125 - 1,10,901 - 188 - 2 ,849 - - - 3,037 - 180 - 26 - 471 - - - - - - - 409 - 1 ,15,024 - 1,22,888
+Less: Closing balance of UPR 181 8 ,759 (1) 22 (1) 22 4 ,096 30,170 11,817 1 ,04,747 15,913 1,34,917 ( 15) 169 250 4 ,583 0 0 235 4,751 31 219 2 32 20 416 - - - - - - 12 418 16,213 1 ,40,753 16,394 1,49,535
+Net Earned Premium 783 2 ,544 7 24 - - 7 24 12,603 34,443 45,765 1 ,28,874 58,368 1 ,63,317 47 130 2 ,021 5 ,097 0 0 2 ,068 5 ,228 116 334 21 52 168 593 - - - - - - 191 597 60,932 1 ,70,120 61,723 1,72,688
+- -
+Gross Direct Premium - -
+- In India 2,432 6,865 39 168 - - 39 168 17,482 43,796 60,473 1,52,650 77,955 1,96,446 61 200 3,367 9,172 0 0 3,429 9,372 154 389 60 154 502 1,384 - - - - - - 426 1,202 82,525 2,08,947 84,996 2,15,980
+- Outside India
+Page 5 of 49
