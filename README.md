@@ -1,6 +1,11 @@
 # 📊 EDME Insurance GDP Trend Analysis
 
-Analyze **Gross Direct Premium (GDP)** trends for three major Indian insurance providers from multi-page PDF reports, and visualize **quarterly vs cumulative growth**.
+**Automated** the extraction of the `FORM NL-4 PREMIUM SCHEDULE` table from **60+ page insurance PDFs**, transforming complex and inconsistent data into **clean, analytics-ready datasets**.  
+
+The pipeline captures both **‘For the Quarter’** and **‘Up to the Quarter’** Gross Direct Premium (GDP) values, enabling **end-to-end analysis and visualization**.  
+
+Finally, **plotted individual trendlines** for each insurance provider to reveal **quarterly and cumulative premium growth patterns**.
+
 
 ![Sample Trendline](https://github.com/twoChar/EDME-Insurance-GDP-Analysis/blob/main/output.png)  
 
