@@ -1,4 +1,4 @@
-# 📊 Insurance GDP Trend Analysis
+# 📊 EDME Insurance GDP Trend Analysis
 
 Analyze **Gross Direct Premium (GDP)** trends for three major Indian insurance providers from multi-page PDF reports, and visualize **quarterly vs cumulative growth**.
 
@@ -115,11 +115,11 @@ jupyter notebook notebooks/extract_and_plot.ipynb
 
 ---
 
-## Author
 
-**Aaditya Dahiya**  
-[GitHub](https://github.com/Aaditya1617) • [LinkedIn](https://www.linkedin.com/in/aaditya-dahiya-100755229a)
+
+**Tushar Suredia**  
+[GitHub](https://github.com/twoChar) • [LinkedIn](https://www.linkedin.com/in/twochar/)
 
 ---
 
-If you like this project, ⭐ **star the repo** and share!
+
