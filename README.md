@@ -3,7 +3,7 @@
 Analyze **Gross Direct Premium (GDP)** trends for three major Indian insurance providers from multi-page PDF reports, and visualize **quarterly vs cumulative growth**.
 
 ![Sample Trendline](https://github.com/twoChar/EDME-Insurance-GDP-Analysis/blob/main/output.png)  
-*(Replace with an actual chart from your notebook)*
+
 
 ---
 
@@ -62,21 +62,10 @@ Key highlights:
   - `matplotlib` → trendline visualization
   - `re`, `os`, `logging` → utilities
 
----
 
-## Project Structure
 
-```
-insurance-gdp-analysis/
-├── SBI General Insurance/
-│   └── Q1 2024.pdf ...
-├── Aditya Birla Health Insurance/
-├── Shriram General Insurance/
-├── notebooks/
-│   └── extract_and_plot.ipynb
-├── requirements.txt
-└── README.md
-```
+
+
 
 ---
 
