@@ -1,69 +1,136 @@
-# Insurance GDP Trend Analysis
+# 📊 Insurance GDP Trend Analysis
 
-This project analyzes the **Gross Direct Premium (GDP)** trends of three major Indian insurance companies using data extracted from quarterly PDF reports.
+Analyze **Gross Direct Premium (GDP)** trends for three major Indian insurance providers from multi-page PDF reports, and visualize **quarterly vs cumulative growth**.
 
-### 🔍 Objective
+![Sample Trendline](https://github.com/user-attachments/assets/sample-trend.png)  
+*(Replace with an actual chart from your notebook)*
 
-To visualize and compare the *quarterly* and *cumulative* (up to quarter) gross premium trends of:
+---
+
+## Overview
+
+This project automates the extraction of premium data from **quarterly insurance reports** and generates **trendline visualizations**.
+
+Key highlights:
+
+- Handles **multi-page PDFs** (50–60 pages each) for 12 quarters per company  
+- Extracts **`FORM NL-4 PREMIUM SCHEDULE`** tables  
+- Detects and cleans **Gross Direct Premium (GDP)** data  
+- Plots **Quarterly vs Up-to-the-Quarter trends** for comparison
+
+---
+
+## Features
+
+- Automated **PDF table extraction** using `pdfplumber`
+- **Smart parsing** of:
+  - `Particulars` header
+  - `Gross Direct Premium` row
+  - Last two numeric columns (Quarter & Cumulative)
+- **Data normalization**:
+  - Cleans messy numbers like `1,96,877` or `(12,345)`  
+  - Infers year/quarter from filename
+- **Visualization**:
+  - Company-wise trendlines
+  - Combined comparisons
+
+---
+
+## Example Companies
 
 - **SBI General Insurance**
 - **Aditya Birla Health Insurance**
 - **Shriram General Insurance**
 
-### 📁 Input Data
+---
 
-Each company provides quarterly reports as PDF files, typically:
+## Sample Output
 
-- 12 PDFs per company
-- 50–60 pages per PDF
-- Reports include a `FORM NL-4 PREMIUM SCHEDULE` section with the required GDP table
+| Date       | Gross Premium (Quarter) | Gross Premium (Up to Quarter) |
+|------------|--------------------------|-------------------------------|
+| 2023-12-31 | 77,176                   | 104,059                       |
+| 2024-12-31 | 96,877                   | 175,038                       |
 
-### ⚙️ What This Project Does
+---
 
-1. **PDF Extraction**  
-   Parses each PDF using `pdfplumber` to find the NL-4 Premium Schedule table.
+## Tech Stack
 
-2. **Target Row Detection**  
-   Locates the row containing *Gross Direct Premium*.
+- **Python 3.12**
+- **Libraries**:
+  - `pdfplumber`, `pdfminer` → PDF parsing
+  - `pandas` → data wrangling
+  - `matplotlib` → trendline visualization
+  - `re`, `os`, `logging` → utilities
 
-3. **Data Cleaning & Normalization**  
-   Extracts the last two numeric values from each row:
-   - First: Premium for the quarter
-   - Second: Cumulative premium up to the quarter
+---
 
-4. **Date Parsing**  
-   Infers the date from the PDF filename (e.g. `Q1 2024.pdf` → `2024-12-31`)
+## Project Structure
 
-5. **Visualization**  
-   Plots:
-   - Individual trend lines for each company
-   - Combined graphs for comparison
+```
+insurance-gdp-analysis/
+├── SBI General Insurance/
+│   └── Q1 2024.pdf ...
+├── Aditya Birla Health Insurance/
+├── Shriram General Insurance/
+├── notebooks/
+│   └── extract_and_plot.ipynb
+├── requirements.txt
+└── README.md
+```
 
-### 📊 Output
+---
 
-Each company has two tidy datasets:
+## Installation & Setup
 
-- `*_quarter_df`: GDP for the current quarter  
-- `*_upto_df`: Cumulative GDP up to that quarter
+### Prerequisites
 
-And three separate trendline plots showing:
+- Python 3.10+
+- Install project dependencies:
 
-- Quarter vs Up to Quarter GDP for each company
+```bash
+pip install pdfplumber pandas matplotlib
+```
 
-### 📦 Libraries Used
+### Run the Analysis
 
-- `pdfplumber`
-- `pandas`
-- `matplotlib`
-- `re`
-- `os`, `logging`
+1. Place all **company PDFs** in their respective folders.
+2. Open the notebook:
 
-### 🧠 Insights
+```bash
+jupyter notebook notebooks/extract_and_plot.ipynb
+```
 
-By structuring and visualizing the premium data:
-- You can observe how individual companies perform over time
-- Spot seasonal spikes or steady growth
-- Compare cumulative vs quarterly contributions
+3. Run all cells to:
+   - Extract GDP data
+   - Generate `quarter_df` and `upto_df` DataFrames
+   - Plot trendlines per company and combined
 
-### 📁 Folder Structure
+---
 
+## Visualization Highlights
+
+- **Company-wise plots**:  
+  Shows **Quarter vs Up-to-the-Quarter** GDP trends for each insurer.
+
+- **Combined plots**:  
+  All three companies on one graph for **direct comparison**.
+
+---
+
+## Future Improvements
+
+- Export cleaned GDP data to **CSV / Excel**
+- Generate **automated PDF reports** of visualizations
+- Add **interactive dashboards** using Plotly/Streamlit
+- Extend support to **other insurance companies**
+
+---
+
+## Author
+
+**Aaditya Dahiya**  
+[GitHub](https://github.com/Aaditya1617) • [LinkedIn](https://www.linkedin.com/in/aaditya-dahiya-100755229a)
+
+---
+
+If you like this project, ⭐ **star the repo** and share!
